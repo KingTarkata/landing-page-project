@@ -73,12 +73,14 @@ h2{
     color:gray;
     text-align: center;
     height:250px;
+    padding: 24px;
 }
 .row-item{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 16px;
 }
 .box{
     border: #1F2937 solid;
